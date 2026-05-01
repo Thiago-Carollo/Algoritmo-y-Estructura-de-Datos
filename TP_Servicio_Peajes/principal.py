@@ -1,13 +1,6 @@
 '''
 Algoritmos y Estructura de Datos
 Trabajo Practico N°4: Gestión de Cabinas de Peaje
-Grupo TP4-G020.
-Integrante:
-Apellido Y Nombre:      Legajo:     Curso:
-Carollo Thiago Lautaro  (94344)     (1K02)
-Luis Santiago Ferrera   (400479)    (1K02)
-Giménez Sofía Belén     (404824)    (1K02)
-Ledesma Lena Sofia      (401269)    (1K02)
 '''
 # ------------------------- IMPORTS -------------------------
 from clase import *
